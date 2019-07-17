@@ -1,1 +1,1 @@
-# Polynomial-Regression-Economies-of-sc-ale
+# Polynomial-Regression-Economies-of-scale
